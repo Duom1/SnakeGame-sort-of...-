@@ -7,6 +7,20 @@ This is a game made with python and pygame. If you want to look at the source co
   1. Drag and drop the file onto your desktop
   1. Double click the file and enjoy
 
+## Patch notes
+* v: 1.0
+  * **Other information:**
+  * Simple drawing mecanism
+  * Controls WASD and Arrow keys
+  * Black background and purple line
+  * Fullscreen 1920 x 1080
+  * Cursor is now invisible
+  * **Variables:**
+  * Spawning position midle
+  * Velocity is 2 and time.delay is 1
+  * Cube size is 10 x 10
+  * No moving borders needed
+
 ## How to play
 * To move use **WASD** or the arrowkeys.
 * You can exit the game by pressing **Windows key**.
@@ -28,7 +42,6 @@ pygame.display.set_caption("Game")
 pygame.mouse.set_visible(0)
 
 # variables
-
 width = 10 # cube size
 height = 10 # cube size
 winW = 1920 # boundaries
