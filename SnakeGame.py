@@ -8,7 +8,6 @@ pygame.display.set_caption("Game")
 pygame.mouse.set_visible(0)
 
 # variables
-
 width = 10 # cube size
 height = 10 # cube size
 winW = 1920 # boundaries
@@ -21,6 +20,7 @@ vel = 2 # Velocity of the cube
 run = True
 while run:
     pygame.time.delay(1)
+    
 
     # QUIT
     for event in pygame.event.get():
