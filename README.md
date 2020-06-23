@@ -8,5 +8,5 @@ How to download
   4. Double click the file and enjoy
 
 Some random inforation
-  You can exit the game by pressing Windows key.
-  If you want to look at the source code you must have python 3.8.3 and pygame library.
+  1.You can exit the game by pressing Windows key.
+  2.If you want to look at the source code you must have python 3.8.3 and pygame library.
