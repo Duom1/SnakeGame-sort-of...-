@@ -8,8 +8,13 @@ This is a game made with python and pygame. If you want to look at the source co
   1. Double click the file and enjoy
 
 ## Patch notes
+* v: 1.1
+  * **--General:**
+  * Added **C** to clear the screen
+  * **Bug fixes**
+  * Fixed duoble click speed boost bug
 * v: 1.0
-  * **--Other information:**
+  * **--General:**
   * Simple drawing mecanism
   * Controls WASD and Arrow keys
   * Black background and purple line
@@ -24,7 +29,7 @@ This is a game made with python and pygame. If you want to look at the source co
 ## How to play
 * To move use **WASD** or the arrowkeys.
 * You can exit the game by pressing **Windows key**.
-* ~~Press **C** to clear the screen.~~ (not in the .exe file yet)
+* Press **C** to clear the screen.
 
 ## Gameplay 
 ![Gameplay1](https://cdn.discordapp.com/attachments/709674549373042692/725004629531820132/Game_23.6.2020_18.08.55.png)
