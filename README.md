@@ -11,9 +11,9 @@ This is a game made with python and pygame. If you want to look at the source co
 * **v: 1.1**
   * **--General:**
   * Added **C** to clear the screen
-  * **Bug fixes**
+  * **--Bug fixes**
   * Fixed duoble click speed boost bug
-* **--v: 1.0**
+* **v: 1.0**
   * **--General:**
   * Simple drawing mecanism
   * Controls WASD and Arrow keys
