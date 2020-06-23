@@ -21,6 +21,8 @@ run = True
 while run:
     pygame.time.delay(1)
     
+    keyPressedX = False
+    keyPressedY = False
 
     # QUIT
     for event in pygame.event.get():
@@ -30,32 +32,40 @@ while run:
     # wasd control
     keys = pygame.key.get_pressed()
     
-    if keys[pygame.K_a] and x > 0:  
+    if keys[pygame.K_a] and x > 0 and keyPressedX == False:  
         x -= vel
+        keyPressedX = True
 
-    if keys[pygame.K_d] and x < winW - width:  
+    if keys[pygame.K_d] and x < winW - width and keyPressedX == False:  
         x += vel
+        keyPressedX = True
 
-    if keys[pygame.K_w] and y > 0: 
+    if keys[pygame.K_w] and y > 0 and keyPressedY == False: 
         y -= vel
+        keyPressedY = True
 
-    if keys[pygame.K_s] and y < winH - height:
+    if keys[pygame.K_s] and y < winH - height and keyPressedY == False:
         y += vel
+        keyPressedY = True
     
     # arrow control
     keys = pygame.key.get_pressed()
     
-    if keys[pygame.K_LEFT] and x > 0:  
+    if keys[pygame.K_LEFT] and x > 0 and keyPressedX == False:  
         x -= vel
+        keyPressedX = True
 
-    if keys[pygame.K_RIGHT] and x < 1920 - width:  
+    if keys[pygame.K_RIGHT] and x < 1920 - width and keyPressedX == False:  
         x += vel
+        keyPressedX = True
 
-    if keys[pygame.K_UP] and y > 0: 
+    if keys[pygame.K_UP] and y > 0 and keyPressedY == False: 
         y -= vel
+        keyPressedY = True
 
-    if keys[pygame.K_DOWN] and y < 1080 - height:
+    if keys[pygame.K_DOWN] and y < 1080 - height and keyPressedY == False:
         y += vel
+        keyPressedY = True
     
     # clear
     keys = pygame.key.get_pressed()
