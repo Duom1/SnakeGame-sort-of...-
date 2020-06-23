@@ -9,13 +9,13 @@ This is a game made with python and pygame. If you want to look at the source co
 
 ## Patch notes
 * v: 1.0
-  * **Other information:**
+  * **--Other information:**
   * Simple drawing mecanism
   * Controls WASD and Arrow keys
   * Black background and purple line
   * Fullscreen 1920 x 1080
   * Cursor is now invisible
-  * **Variables:**
+  * **--Variables:**
   * Spawning position midle
   * Velocity is 2 and time.delay is 1
   * Cube size is 10 x 10
