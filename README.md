@@ -1,5 +1,5 @@
 # SnakeGame *(sort of...)*
-This is a game made with python and pygame. If you want to look at the source code you can find it at the **SnakeGame.py** file when you click it. Or you can download the **SnakeGame.py** but must have python 3.8.3 and pygame library downloaded.
+This is a game made with python and pygame. If you want to look at the source code you can find it at the **SnakeGame.py** file when you click it. Or you can download the **SnakeGame.py** but must have python 3.8.3 and pygame library downloaded. You can also download the icon of the .exe file by the name of snake.ico.
 
 ## How to download 
   1. Click **SnakeGame.exe** not SnakeGame.py
