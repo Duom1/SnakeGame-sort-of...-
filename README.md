@@ -2,10 +2,10 @@
 This is a game made with python and pygame. If you want to look at the source code you must have python 3.8.3 and pygame library.
 
 ## How to download 
-  >1. Click **SnakeGame.exe** not SnakeGame.py
-  >1. Click download (if you can find it)
-  >1. Drag and drop the file onto your desktop
-  >1. Double click the file and enjoy
+  1. Click **SnakeGame.exe** not SnakeGame.py
+  1. Click download (if you can find it)
+  1. Drag and drop the file onto your desktop
+  1. Double click the file and enjoy
 
 ## How to play
 * to move use WASD or the arrowkeys.
@@ -13,3 +13,4 @@ This is a game made with python and pygame. If you want to look at the source co
 
 ## Gameplay 
 ![Gameplay1](https://cdn.discordapp.com/attachments/709674549373042692/725004629531820132/Game_23.6.2020_18.08.55.png)
+![Gameplay2](https://media.discordapp.net/attachments/709674549373042692/725005915752759316/Game_23.6.2020_17.23.38.png?width=1204&height=677)
