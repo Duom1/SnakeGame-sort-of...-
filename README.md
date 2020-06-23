@@ -24,7 +24,7 @@ This is a game made with python and pygame. If you want to look at the source co
 ## How to play
 * To move use **WASD** or the arrowkeys.
 * You can exit the game by pressing **Windows key**.
-* ~~Press **C** to clear the screen.~~ (not done yet)
+* ~~Press **C** to clear the screen.~~ (not in the .exe file yet)
 
 ## Gameplay 
 ![Gameplay1](https://cdn.discordapp.com/attachments/709674549373042692/725004629531820132/Game_23.6.2020_18.08.55.png)
