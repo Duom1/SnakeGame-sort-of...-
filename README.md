@@ -4,7 +4,7 @@ This is a game made with python and pygame. If you want to look at the source co
 ## How to download 
   1. Click **tags** under green clone button
   1. Then click **Releases**
-  1. Then under Assets click SnakeGame(x.x).exe
+  1. Then under Assets click **SnakeGame(x.x).exe**
   1. After the download drag and drop the file onto your deksktop
   1. Then duoble click it and enjoy
 
