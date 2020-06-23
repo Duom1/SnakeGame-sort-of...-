@@ -75,6 +75,12 @@ while run:
 
     if keys[pygame.K_DOWN] and y < 1080 - height:
         y += vel
+    
+    # clear
+    keys = pygame.key.get_pressed()
+
+    if keys[pygame.K_c]:
+        win.fill((0,0,0))
 
     # drawiings
     #win.fill((0,0,0)) #optional
