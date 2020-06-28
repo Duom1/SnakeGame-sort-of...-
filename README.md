@@ -9,6 +9,8 @@ This is a game made with python and pygame. If you want to look at the source co
   1. Then duoble click it and enjoy
 
 ## Patch notes
+* **v: 1.2**
+  * Added the ability to close the program by pressing **esc**
 * **v: 1.1**
   * **--General:**
   * Added **C** to clear the screen
