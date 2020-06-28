@@ -72,6 +72,10 @@ while run:
 
     if keys[pygame.K_c]:
         win.fill((0,0,0))
+    
+    # EXIT
+    if keys[pygame.K_ESCAPE]:
+        pygame.quit()
 
     # drawiings
     #win.fill((0,0,0)) #optional
